@@ -1,0 +1,3 @@
+rootProject.name = 'aymall'
+
+include ':app'
